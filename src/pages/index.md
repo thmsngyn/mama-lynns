@@ -1,18 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Mama Lynn's
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Welcome to Mama Lynn's
+subheading: a taste of home sweet home
 mainpitch:
-  title: Why Kaldi
+  title: Why Mama Lynn's
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Mama Lynn's is the family owned business for everyone who believes that great home is where
+    the food is. We source all of our ingredients from local businesses and cook from the heart.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  Mama Lynn's is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
@@ -47,7 +45,7 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    Mama Lynn's is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
