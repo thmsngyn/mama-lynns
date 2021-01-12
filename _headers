@@ -1,0 +1,194 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.e563bef8668a79ec164f.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-e9d24b1846c7d6eb9685.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-93fc9700f7c0c1627186.js
+  Cache-Control: public, max-age=31536000, immutable
+/6856248c00fc7a17368c03e2cf9f4280bd8891ff-a5a363844027121917c8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-page-js-a114d2148601cfab7698.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-blog-post-js-79d59245609d9ae45d5f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-about-page-js-b701a5da2d9c364dd7ff.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-product-page-js-c2316335594c37655370.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tags-js-4044d392f61d5f972bec.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-57803f8ff8a095ac849c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-index-js-a7b52e8907933dab6cdb.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-contact-examples-js-b384e9e279fd8033f6ba.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-contact-file-upload-js-e3f903d3042b3c1b1a66.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-contact-index-js-37daad8de41293c7d0ee.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-contact-thanks-js-43ebad7f0124ba6f2943.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-tags-index-js-6391f3b51093ba200e77.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-044d0e8c7179afd1c0a9.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-ddff9c6a94258f6c8286.js
+  Cache-Control: public, max-age=31536000, immutable
+/532a2f07-a2b9837034ae8adfec32.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-74fc04f4b6457f406977.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/mama-lynns/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/6856248c00fc7a17368c03e2cf9f4280bd8891ff-a5a363844027121917c8.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-templates-index-page-js-a114d2148601cfab7698.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/blog/2021-01-09-first-iteration-complete/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-templates-blog-post-js-79d59245609d9ae45d5f.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/blog/2021-01-09-first-iteration-complete/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/about/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-templates-about-page-js-b701a5da2d9c364dd7ff.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/products/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/6856248c00fc7a17368c03e2cf9f4280bd8891ff-a5a363844027121917c8.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-templates-product-page-js-c2316335594c37655370.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/products/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/tags/flavor/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-templates-tags-js-4044d392f61d5f972bec.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/tags/flavor/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/tags/tasting/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-templates-tags-js-4044d392f61d5f972bec.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/tags/tasting/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/404/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-pages-404-js-57803f8ff8a095ac849c.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/blog/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/6856248c00fc7a17368c03e2cf9f4280bd8891ff-a5a363844027121917c8.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-pages-blog-index-js-a7b52e8907933dab6cdb.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/contact/examples/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-pages-contact-examples-js-b384e9e279fd8033f6ba.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/contact/examples/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/contact/file-upload/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-pages-contact-file-upload-js-e3f903d3042b3c1b1a66.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/contact/file-upload/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/contact/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-pages-contact-index-js-37daad8de41293c7d0ee.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/contact/thanks/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-pages-contact-thanks-js-43ebad7f0124ba6f2943.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/contact/thanks/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/tags/
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-pages-tags-index-js-6391f3b51093ba200e77.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/mama-lynns/404.html
+  Link: </mama-lynns/webpack-runtime-044d0e8c7179afd1c0a9.js>; rel=preload; as=script
+  Link: </mama-lynns/framework-ddff9c6a94258f6c8286.js>; rel=preload; as=script
+  Link: </mama-lynns/532a2f07-a2b9837034ae8adfec32.js>; rel=preload; as=script
+  Link: </mama-lynns/app-74fc04f4b6457f406977.js>; rel=preload; as=script
+  Link: </mama-lynns/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mama-lynns/commons-93fc9700f7c0c1627186.js>; rel=preload; as=script
+  Link: </mama-lynns/component---src-pages-404-js-57803f8ff8a095ac849c.js>; rel=preload; as=script
+  Link: </mama-lynns/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mama-lynns/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
