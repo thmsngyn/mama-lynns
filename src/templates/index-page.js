@@ -5,6 +5,7 @@ import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
+import VideoPlayer from "../components/VideoPlayer";
 import "../components/all.sass";
 
 export const IndexPageTemplate = ({
@@ -14,7 +15,7 @@ export const IndexPageTemplate = ({
   subheading,
   mainpitch,
   description,
-  intro
+  intro,
 }) => (
   <div>
     <div
@@ -24,7 +25,7 @@ export const IndexPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`
+        backgroundAttachment: `fixed`,
       }}
     >
       <div
@@ -34,7 +35,7 @@ export const IndexPageTemplate = ({
           lineHeight: "1",
           justifyContent: "space-around",
           alignItems: "left",
-          flexDirection: "column"
+          flexDirection: "column",
         }}
       >
         <h1
@@ -45,7 +46,7 @@ export const IndexPageTemplate = ({
             backgroundColor: "rgb(255, 68, 0)",
             color: "white",
             lineHeight: "1",
-            padding: "0.25em"
+            padding: "0.25em",
           }}
         >
           {title}
@@ -58,7 +59,7 @@ export const IndexPageTemplate = ({
             backgroundColor: "rgb(255, 68, 0)",
             color: "white",
             lineHeight: "1",
-            padding: "0.25em"
+            padding: "0.25em",
           }}
         >
           {subheading}
@@ -80,6 +81,18 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="columns">
+                  <VideoPlayer src={"/img/home/lynn.mp4"}></VideoPlayer>
+                  <VideoPlayer src={"/img/home/tory.mp4"}></VideoPlayer>
+                  <VideoPlayer src={"/img/home/pizza.mp4"}></VideoPlayer>
+                  <VideoPlayer src={"/img/home/smile.mp4"}></VideoPlayer>
+                </div>
+                <div className="columns has-text-centered">
+                  <VideoPlayer src={"/img/home/tony-stacy.mp4"}></VideoPlayer>
+                  <VideoPlayer src={"/img/home/ny.mp4"}></VideoPlayer>
+                  <VideoPlayer src={"/img/home/todd.mp4"}></VideoPlayer>
+                  <VideoPlayer src={"/img/home/hoai.mp4"}></VideoPlayer>
+                </div>
+                {/* <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
@@ -87,11 +100,11 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />
+                <Features gridItems={intro.blurbs} /> */}
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
-                      See all products
+                      See the menu
                     </Link>
                   </div>
                 </div>
@@ -123,8 +136,8 @@ IndexPageTemplate.propTypes = {
   mainpitch: PropTypes.object,
   description: PropTypes.string,
   intro: PropTypes.shape({
-    blurbs: PropTypes.array
-  })
+    blurbs: PropTypes.array,
+  }),
 };
 
 const IndexPage = ({ data }) => {
@@ -148,9 +161,9 @@ const IndexPage = ({ data }) => {
 IndexPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object
-    })
-  })
+      frontmatter: PropTypes.object,
+    }),
+  }),
 };
 
 export default IndexPage;
