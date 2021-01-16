@@ -1,5 +1,41 @@
 webpackHotUpdate("cms",{
 
+/***/ "./src/app.css":
+/*!*********************!*\
+  !*** ./src/app.css ***!
+  \*********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+    if(true) {
+      // 1610819286862
+      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
+      module.hot.dispose(cssReload);
+      module.hot.accept(undefined, cssReload);
+    }
+  
+
+/***/ }),
+
+/***/ "./src/components/all.sass":
+/*!*********************************!*\
+  !*** ./src/components/all.sass ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+    if(true) {
+      // 1610819291807
+      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
+      module.hot.dispose(cssReload);
+      module.hot.accept(undefined, cssReload);
+    }
+  
+
+/***/ }),
+
 /***/ "./src/templates/index-page.js":
 /*!*************************************!*\
   !*** ./src/templates/index-page.js ***!
@@ -379,7 +415,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       display: "flex",
       justifyContent: "center"
     },
-    className: "column is-half is-centered",
+    className: "column is-half",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -601,7 +637,13 @@ var pageQuery = "1377013887";
 })();
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
 
-/***/ })
+/***/ }),
+
+/***/ "?7682":
+false,
+
+/***/ "?d2da":
+false
 
 })
-//# sourceMappingURL=cms.0c5a3b9abdc32c716d44.hot-update.js.map
+//# sourceMappingURL=cms.bcb412b8e5c39fb68e1b.hot-update.js.map

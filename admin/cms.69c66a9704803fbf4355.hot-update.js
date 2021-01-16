@@ -1,41 +1,5 @@
 webpackHotUpdate("cms",{
 
-/***/ "./src/app.css":
-/*!*********************!*\
-  !*** ./src/app.css ***!
-  \*********************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-    if(true) {
-      // 1610818371407
-      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
-      module.hot.dispose(cssReload);
-      module.hot.accept(undefined, cssReload);
-    }
-  
-
-/***/ }),
-
-/***/ "./src/components/all.sass":
-/*!*********************************!*\
-  !*** ./src/components/all.sass ***!
-  \*********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-    if(true) {
-      // 1610818377006
-      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
-      module.hot.dispose(cssReload);
-      module.hot.accept(undefined, cssReload);
-    }
-  
-
-/***/ }),
-
 /***/ "./src/templates/index-page.js":
 /*!*************************************!*\
   !*** ./src/templates/index-page.js ***!
@@ -160,7 +124,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     className: "has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen",
     style: {
       boxShadow: "#ffb556 0.5rem 0px 0px, #ffb556 -0.5rem 0px 0px",
-      backgroundColor: "rgb(255, 68, 0)",
+      backgroundColor: "#ffb556",
       color: "white",
       lineHeight: "1",
       padding: "0.25em"
@@ -174,8 +138,8 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
   }, title), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen",
     style: {
-      boxShadow: "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-      backgroundColor: "rgb(255, 68, 0)",
+      boxShadow: "#ffb556 0.5rem 0px 0px, #ffb556 -0.5rem 0px 0px",
+      backgroundColor: "#ffb556",
       color: "white",
       lineHeight: "1",
       padding: "0.25em"
@@ -191,7 +155,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 88,
+      lineNumber: 87,
       columnNumber: 5
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -199,7 +163,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 89,
+      lineNumber: 88,
       columnNumber: 7
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -207,7 +171,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 90,
+      lineNumber: 89,
       columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -215,7 +179,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 91,
+      lineNumber: 90,
       columnNumber: 11
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -223,7 +187,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 92,
+      lineNumber: 91,
       columnNumber: 13
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -231,7 +195,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 93,
+      lineNumber: 92,
       columnNumber: 15
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -239,7 +203,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 94,
+      lineNumber: 93,
       columnNumber: 17
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -247,7 +211,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95,
+      lineNumber: 94,
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
@@ -255,7 +219,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 96,
+      lineNumber: 95,
       columnNumber: 21
     }
   }, mainpitch.title)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -263,7 +227,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 98,
+      lineNumber: 97,
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
@@ -271,7 +235,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 99,
+      lineNumber: 98,
       columnNumber: 21
     }
   }, mainpitch.description))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -279,7 +243,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 102,
+      lineNumber: 101,
       columnNumber: 17
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -291,7 +255,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103,
+      lineNumber: 102,
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -299,7 +263,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 107,
+      lineNumber: 106,
       columnNumber: 21
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -307,11 +271,11 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       display: "flex",
       justifyContent: "center"
     },
-    className: "column is-half is-centered",
+    className: "column is-half",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 108,
+      lineNumber: 107,
       columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_VideoPlayer__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -319,7 +283,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112,
+      lineNumber: 111,
       columnNumber: 25
     }
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -331,7 +295,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 114,
+      lineNumber: 113,
       columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_VideoPlayer__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -339,7 +303,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 118,
+      lineNumber: 117,
       columnNumber: 25
     }
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -347,7 +311,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 121,
+      lineNumber: 120,
       columnNumber: 21
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -359,7 +323,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 122,
+      lineNumber: 121,
       columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_VideoPlayer__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -367,7 +331,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 126,
+      lineNumber: 125,
       columnNumber: 25
     }
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -379,7 +343,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128,
+      lineNumber: 127,
       columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_VideoPlayer__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -387,7 +351,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 132,
+      lineNumber: 131,
       columnNumber: 25
     }
   })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -399,7 +363,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 136,
+      lineNumber: 135,
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -407,7 +371,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 140,
+      lineNumber: 139,
       columnNumber: 21
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -415,11 +379,11 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       display: "flex",
       justifyContent: "center"
     },
-    className: "column is-half is-centered",
+    className: "column is-half",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 141,
+      lineNumber: 140,
       columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_VideoPlayer__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -427,7 +391,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 145,
+      lineNumber: 144,
       columnNumber: 25
     }
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -439,7 +403,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 147,
+      lineNumber: 146,
       columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_VideoPlayer__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -447,7 +411,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 151,
+      lineNumber: 150,
       columnNumber: 25
     }
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -455,7 +419,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 154,
+      lineNumber: 153,
       columnNumber: 21
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -467,7 +431,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 155,
+      lineNumber: 154,
       columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_VideoPlayer__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -475,7 +439,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 159,
+      lineNumber: 158,
       columnNumber: 25
     }
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -487,7 +451,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 161,
+      lineNumber: 160,
       columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_VideoPlayer__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -495,7 +459,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 165,
+      lineNumber: 164,
       columnNumber: 25
     }
   }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -503,7 +467,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 179,
+      lineNumber: 178,
       columnNumber: 17
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -511,7 +475,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 180,
+      lineNumber: 179,
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
@@ -520,7 +484,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 181,
+      lineNumber: 180,
       columnNumber: 21
     }
   }, "See the menu"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -528,7 +492,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 186,
+      lineNumber: 185,
       columnNumber: 17
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
@@ -536,14 +500,14 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 187,
+      lineNumber: 186,
       columnNumber: 19
     }
   }, "Latest stories"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_BlogRoll__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 190,
+      lineNumber: 189,
       columnNumber: 19
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -551,7 +515,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 191,
+      lineNumber: 190,
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
@@ -560,7 +524,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 192,
+      lineNumber: 191,
       columnNumber: 21
     }
   }, "Read more"))))))))));
@@ -584,7 +548,7 @@ var IndexPage = function IndexPage(_ref2) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 222,
+      lineNumber: 221,
       columnNumber: 5
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(IndexPageTemplate, {
@@ -598,7 +562,7 @@ var IndexPage = function IndexPage(_ref2) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 223,
+      lineNumber: 222,
       columnNumber: 7
     }
   }));
@@ -637,13 +601,7 @@ var pageQuery = "1377013887";
 })();
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
 
-/***/ }),
-
-/***/ "?7682":
-false,
-
-/***/ "?d2da":
-false
+/***/ })
 
 })
-//# sourceMappingURL=cms.6f9c9c73027bfbdff065.hot-update.js.map
+//# sourceMappingURL=cms.69c66a9704803fbf4355.hot-update.js.map
