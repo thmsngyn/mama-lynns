@@ -259,7 +259,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "columns is-multiline is-gapless",
+    className: "columns is-multiline",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -307,7 +307,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       columnNumber: 25
     }
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "columns is-multiline is-gapless",
+    className: "columns is-multiline",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -367,7 +367,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "columns is-multiline is-gapless is-mobile",
+    className: "columns is-multiline is-gapless",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -604,4 +604,4 @@ var pageQuery = "1377013887";
 /***/ })
 
 })
-//# sourceMappingURL=cms.692d8cbcfe99eb3f2416.hot-update.js.map
+//# sourceMappingURL=cms.22da0d5dadbfa0563501.hot-update.js.map

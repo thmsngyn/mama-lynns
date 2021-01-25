@@ -1,5 +1,41 @@
 webpackHotUpdate("cms",{
 
+/***/ "./src/app.css":
+/*!*********************!*\
+  !*** ./src/app.css ***!
+  \*********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+    if(true) {
+      // 1610861705386
+      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
+      module.hot.dispose(cssReload);
+      module.hot.accept(undefined, cssReload);
+    }
+  
+
+/***/ }),
+
+/***/ "./src/components/all.sass":
+/*!*********************************!*\
+  !*** ./src/components/all.sass ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+    if(true) {
+      // 1610861711034
+      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
+      module.hot.dispose(cssReload);
+      module.hot.accept(undefined, cssReload);
+    }
+  
+
+/***/ }),
+
 /***/ "./src/templates/index-page.js":
 /*!*************************************!*\
   !*** ./src/templates/index-page.js ***!
@@ -259,7 +295,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "columns is-multiline is-gapless is-mobile",
+    className: "columns is-multiline",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -367,7 +403,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "columns is-multiline is-gapless is-mobile",
+    className: "columns is-multiline is-gapless",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -601,7 +637,13 @@ var pageQuery = "1377013887";
 })();
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
 
-/***/ })
+/***/ }),
+
+/***/ "?7682":
+false,
+
+/***/ "?d2da":
+false
 
 })
-//# sourceMappingURL=cms.69c66a9704803fbf4355.hot-update.js.map
+//# sourceMappingURL=cms.56878002a4f580b086f4.hot-update.js.map
